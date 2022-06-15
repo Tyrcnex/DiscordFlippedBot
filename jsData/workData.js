@@ -1,0 +1,56 @@
+module.exports = [
+    {
+        name: 'doctor',
+        displayname: 'Doctor',
+        aliases: ['docter', 'doc'],
+        description: 'Asians claim you earn the most money as a doctor... right?',
+        base: 12000,
+        days: 1,
+        words: [
+            'medicine',
+            'doctor',
+            'doc',
+            'medic',
+            'vaccine',
+            'pills',
+            'surgery'
+        ],
+    },
+	{
+        name: 'dbotprogrammer',
+        displayname: 'Discord Bot Programmer',
+        aliases: ['discordbotprogrammer', 'discord bot programmer', 'dbot programmer', 'dbotprogram', 'discordbotprogram', 'dbot program'],
+        description: 'Discord bots can earn you lots of money.',
+        base: 34000,
+        days: 3,
+        words: [
+            'javascript',
+            'mongodb',
+            'vscode',
+            'nodejs',
+			'discordjs',
+			'discordpy',
+			'discordapi',
+			'programming',
+        ],
+    },
+    {
+        name: 'flippeddev',
+        displayname: 'Flipped Developer',
+        aliases: ['flipped dev', 'flipped developer', 'flipdev', 'flip dev', 'flip developer'],
+        description: 'You earn lots of money making this flipped bot.',
+        base: 50000,
+        days: 5,
+        words: [
+            'flipped',
+            'tyrcnex',
+            'angry bee',
+            'friend',
+            'nezuko ackerman',
+            'javascript',
+            'mongodb',
+            'vscode',
+            'nodejs'
+        ],
+    },
+]
